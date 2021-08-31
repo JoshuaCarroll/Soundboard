@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Soundboard\Soundboard\bin\Soundboard.dll.config
+\\Mac\Home\Documents\Soundboard\Soundboard\bin\Soundboard.dll
+\\Mac\Home\Documents\Soundboard\Soundboard\bin\Soundboard.pdb
+\\Mac\Home\Documents\Soundboard\Soundboard\obj\Release\Soundboard.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Soundboard\Soundboard\obj\Release\Soundboard.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Soundboard\Soundboard\obj\Release\Soundboard.dll
+\\Mac\Home\Documents\Soundboard\Soundboard\obj\Release\Soundboard.pdb

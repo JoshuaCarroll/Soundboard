@@ -1,0 +1,12 @@
+//Mac/Home/Documents/Soundboard/Soundboard/bin/Soundboard.dll.config
+//Mac/Home/Documents/Soundboard/Soundboard/bin/Soundboard.dll
+//Mac/Home/Documents/Soundboard/Soundboard/bin/Soundboard.pdb
+//Mac/Home/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.csprojAssemblyReference.cache
+//Mac/Home/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.dll
+//Mac/Home/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.pdb
+/Users/joshuacarroll/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.csprojAssemblyReference.cache
+/Users/joshuacarroll/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.dll
+/Users/joshuacarroll/Documents/Soundboard/Soundboard/obj/Debug/Soundboard.pdb
+/Users/joshuacarroll/Documents/Soundboard/Soundboard/bin/Soundboard.dll
+/Users/joshuacarroll/Documents/Soundboard/Soundboard/bin/Soundboard.pdb

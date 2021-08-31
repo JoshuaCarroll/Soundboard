@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4A4D2C67-C58F-4329-8FC1-A47E53CBADC8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Record.aspx.cs">
+    <Files>
+      <File FileName="Record.aspx.cs" Line="83" Column="10" />
+      <File FileName="Record.aspx.designer.cs" Line="61" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Soundboard" expanded="True">
+            <Node name="Soundboard" expanded="True">
+              <Node name="Record.aspx" expanded="True">
+                <Node name="Record.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Soundboard PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
