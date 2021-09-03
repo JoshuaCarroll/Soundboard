@@ -6,10 +6,13 @@
 <head runat="server">
     <title>Soundboard</title>
     <script>
+        var secondsToFade = 2;
+
         function play(id) {
             var x = document.getElementById(id);
             if (x.paused) {
                 x.currentTime = 0;
+                x.volume = 1.0;
                 x.play();
             }
             else {
@@ -36,7 +39,7 @@
             }
             button {
                     height: 100px;
-                    width: 100px;
+                    width: 150px;
                     margin: 25px;
             }
             figure {
