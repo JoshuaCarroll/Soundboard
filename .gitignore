@@ -1,3 +1,6 @@
 
 Soundboard/.vs/Soundboard/config/applicationhost.config
 Soundboard/.vs/Soundboard/config/applicationhost.config
+*.cache
+Soundboard/obj/Release/.NETFramework,Version=v4.0.AssemblyAttributes.cs
+*.config
